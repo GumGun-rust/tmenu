@@ -1,0 +1,7 @@
+hola
+Ok(91)Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })
+hola 2 4 Err(Custom { kind: Other, error: "Could not parse an event" })
+Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })
+hola 4 5 Ok(Key(Char('C')))
+Ok(91)Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })Err(Custom { kind: Other, error: ":(" })
+hola 2 11 Err(Custom { kind: Other, error: "Could not parse an event" })
